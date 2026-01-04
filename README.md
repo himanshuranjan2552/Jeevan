@@ -20,6 +20,12 @@ Jeevan is built for real India — feature phones, mixed languages, and urgent m
 |No ABHA | Auto-fetches ABHA ID​ |
 
 
+---------
+# 📌 Vision
+**No patient should miss care because of language, technology, or fear.**</br>
+Jeevan ensures that every voice is heard — and acted upon.
+
+
 --------
 # 🧠 Core Innovations
 ## 🗣️ Bhasha-First Conversational Intelligence
@@ -101,7 +107,7 @@ Automatically detects and speaks:
 
 The conversation continues in the caller’s own language.
 
-
+​
 ---------
 # 🎯 Who is Jeevan for?
 
@@ -119,8 +125,4 @@ Jeevan is designed to support:
 - National health infrastructure (ABHA)
 
 
----------
-# 📌 Vision
-**No patient should miss care because of language, technology, or fear.**</br>
-Jeevan ensures that every voice is heard — and acted upon.​
 
